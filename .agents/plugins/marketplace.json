@@ -1,0 +1,20 @@
+{
+  "name": "dvs-training-logistics",
+  "interface": {
+    "displayName": "Diversity · Логистика · учебный стенд"
+  },
+  "plugins": [
+    {
+      "name": "dvs-training-logistics",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dvs-training-logistics"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

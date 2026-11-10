@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dvs-training-logistics",
+  "version": "0.6.0",
+  "description": "Данные отправления DEMO-1042",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Логистика · учебный плагин",
+        "shortDescription": "Данные отправления DEMO-1042",
+        "category": "Productivity"
+      }
+    }
+  }
+}

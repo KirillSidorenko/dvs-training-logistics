@@ -1,0 +1,11 @@
+{
+  "name": "dvs-training-logistics",
+  "version": "0.6.0",
+  "description": "Данные отправления DEMO-1042",
+  "interface": {
+    "displayName": "Логистика · учебный плагин",
+    "shortDescription": "Данные отправления DEMO-1042",
+    "category": "Productivity"
+  },
+  "mcpServers": "./.mcp.json"
+}
